@@ -1,0 +1,14 @@
+main h1 {
+
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    /* Alinea horizontalmente */
+    text-align: center;
+    align-items: center;
+    color: #748205;
+    font-size: xxx-large;
+}
